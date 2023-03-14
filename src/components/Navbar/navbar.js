@@ -6,7 +6,7 @@ import CartWidget from '../CartWidget/cartWidget'
 const Navbar = () => {
     return (
         <nav className='navBar'>
-            <a href='../../public/index.html' className="logo">
+            <a href='../../../public/index.html' className="logo">
                 <h1>PlayMovie</h1>
             </a>
     
